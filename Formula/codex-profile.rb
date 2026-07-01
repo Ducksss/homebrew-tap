@@ -1,8 +1,8 @@
 class CodexProfile < Formula
   desc "Switch Codex CLI and Desktop accounts with isolated CODEX_HOME profiles"
   homepage "https://github.com/Ducksss/codex-profiles"
-  url "https://github.com/Ducksss/codex-profiles/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "1aec20c0d484e8cf835b250df3e9d6e8a4d5c0dcf173e80008b1a5d0429deb39"
+  url "https://github.com/Ducksss/codex-profiles/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "2d949af33d6b24499b25abf19d25c1fa6d758e35c3e0a649c7872bade90d083b"
   license "MIT"
   head "https://github.com/Ducksss/codex-profiles.git", branch: "main"
 
