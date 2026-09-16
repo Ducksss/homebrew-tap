@@ -1,8 +1,8 @@
 class CodexProfile < Formula
   desc "Named Codex CLI profiles with separate local ChatGPT desktop state"
   homepage "https://github.com/Ducksss/codex-profiles"
-  url "https://github.com/Ducksss/codex-profiles/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "10e10af2b5125d09542570fc22c567d0509b0b4f8fe1234efb94d824a9d02012"
+  url "https://github.com/Ducksss/codex-profiles/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "9f58674d463310cba067a14dba49fe9e82566b0510285bb2d7da68fa2c0a0e98"
   license "MIT"
   head "https://github.com/Ducksss/codex-profiles.git", branch: "main"
 
